@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  .left-content {
+    width: 35%;
+    padding-right: 0px;
+  }
+  .right-content {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end; 
+
+  }
+.ceneiei {
+    text-align: center;
+    padding: 2rem;
+    font-size: 30px;
+}
+  .header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  .header h1 {
+    margin: 0;
+    font-size: 35px;
+  }
+
+  .chartsize{
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .psize{
+    font-size: 20px;
+  }
+
+  .bgchart{
+    background: rgb(255, 255, 255);
+    color: white;
+    max-width: 700px;
+    max-height: 700px;
+    margin-right: 80px;
+  }
+
+  .pp {
+    font-size: 20px;
+    background-color: #323030;
+    color: white;
+  }
